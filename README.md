@@ -1,2 +1,2 @@
 # Snake-game
-Built a snake game suing pyhton and pygame
+Built a snake game using pyhton and pygame
